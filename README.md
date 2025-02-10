@@ -10,11 +10,10 @@ Esta es la plantilla básica desde la que podrás documentar los ejercicios que 
 * Finalmente, no olvides hacer una _relase_ (o _lanzamiento_) cuya URL deberás entregar a través de Platea para su corrección.
 
 ### Ejercicio A.42
-![Foto de Víctor M. Rivas](./assets/img/celia.png "Víctor M. Rivas Santos")
-* __Autor__: Víctor M. Rivas Santos
-* __Profesión__: Profesor del departamento de Informática de la Universidad de Jaén.
+![Foto de Celia Macías Torres](./assets/img/celia.JPEG "Celia Macías Torres")
+* __Autor__: Celia Macías Torres
+* __Profesión__: Profesora de FP de informática.
 * __Datos de interés__:
-  * __Correo__: vrivas@ujaen.es
-  * __Web__: http://vrivas.es
-  * __GitHub__: https://github.com/vrivas/
-    
+  * __Correo__: cmt00010@red.ujaen.es
+  * __Web__: https://ujaen.es/
+  * __GitHub__: https://github.com/cmt00010/
